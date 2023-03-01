@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Orkun</h1>
-<h3 align="center">I am on my way to becoming a backend developer from Ankara. I have an indescribable relationship with 3D printers.</h3>
+<h3 align="center"></h3>
 
 
 <h3 align="left">Connect with me:</h3>
